@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Day_48_selenium.iml" filepath="$PROJECT_DIR$/.idea/Day_48_selenium.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/.idea/CookiesClick.iml" filepath="$PROJECT_DIR$/.idea/CookiesClick.iml" />
+39c9801 (Added Cookie Clicker bot project)
     </modules>
   </component>
 </project>
