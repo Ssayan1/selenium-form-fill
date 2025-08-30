@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b0dc711-0dba-49fe-b333-909f2fa794fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-25th-start/.idea/Day-25th-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-26-list-comprehension/.idea/Day-26-list-comprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-30/.idea/Day-30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_19th_start/.idea/Day_19th_start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake_Game/.idea/Snake_Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workout_Tracker/.idea/Workout_Tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bs4-start/.idea/bs4-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-17th-start/.idea/day-17th-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24th/.idea/day-24th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flight_deals/.idea/flight_deals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit_tracker/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit_tracker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit_tracker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit_tracker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit_tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirst_painting/.idea/hirst_painting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_game/.idea/pong_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../top100-movies/.idea/top100-movies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_race/.idea/turtle_race.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password-manager-start/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../password-manager-start/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password-manager-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../password-manager-start/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31owkejLxEiTswGGG6tMrkQNN8Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b0dc711-0dba-49fe-b333-909f2fa794fd" name="Changes" comment="" />
+      <created>1756203877550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756203877550</updated>
+    </task>
+    <servers />
+  </component>
+</project>
